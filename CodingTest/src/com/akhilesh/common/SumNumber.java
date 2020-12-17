@@ -20,7 +20,7 @@ public class SumNumber {
 			num = num / 10;
 		}
 
-		System.out.println("Sum of the number is " + count);
+		System.out.println("Sum of the number is : " + count);
 
 	}
 }
